@@ -1,0 +1,4 @@
+Size of list after default constructor: 0
+Size of list after fill constructor: 5
+10
+10 10 10 10 10 10 10 10 10 10 

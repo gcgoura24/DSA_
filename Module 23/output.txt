@@ -1,0 +1,5 @@
+apple 3
+banana 2
+mengo 0
+orange 5
+mango does not exist in the map.

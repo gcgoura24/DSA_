@@ -1,0 +1,3 @@
+Top element: 30
+Top element after pop: 20
+Top element after another pop: 10
